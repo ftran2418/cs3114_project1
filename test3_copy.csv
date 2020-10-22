@@ -1,0 +1,7 @@
+Date,State,Positive,Negative,Hospitalized,onVentilatorCurrently,onVentilatorCumulative,Recovered,dataQualityGrade,Death
+20200815,AS,1234,1234,1234,1234,,,C,1234
+20200815,MD,99693,1027959,13556,2,3,5995,B,3636
+,,,,,,,,,
+20200817,DE,16536,196102,,,,8713,A+,593
+20200817,DC,13273,232382,,15,,10521,A+,597
+20200817,GA,238861,1788556,22133,,,,A,4727
